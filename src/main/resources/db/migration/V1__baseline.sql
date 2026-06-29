@@ -1,0 +1,1 @@
+-- smartHRIS baseline migration (add tables in future migrations)
